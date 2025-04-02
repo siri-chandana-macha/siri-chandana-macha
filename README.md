@@ -7,3 +7,8 @@
 [![An image of @sirichandanamacha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sirichandanamacha)](https://holopin.io/@sirichandanamacha)
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siri-chandana-macha/siri-chandana-macha/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siri-chandana-macha/siri-chandana-macha/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/siri-chandana-macha/siri-chandana-macha/output/github-snake.svg" />
+</picture>
