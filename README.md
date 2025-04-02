@@ -8,6 +8,10 @@
 [![An image of @sirichandanamacha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sirichandanamacha)](https://holopin.io/@sirichandanamacha)
 
 
+<h2 style="display: flex; align-items: center; gap: 10px;">
+  🛠 GitHub Activity Stats
+</h2>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siri-chandana-macha/siri-chandana-macha/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siri-chandana-macha/siri-chandana-macha/output/github-snake.svg" />
